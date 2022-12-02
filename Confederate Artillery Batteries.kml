@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Confederate Artillery Batteries</name>
+	<LookAt>
+		<longitude>-77.45021674918641</longitude>
+		<latitude>38.26402491535359</latitude>
+		<altitude>0</altitude>
+		<heading>0.001984356589937015</heading>
+		<tilt>39.18028873809291</tilt>
+		<range>12212.16559170643</range>
+		<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+	</LookAt>
+	<Style id="I1-0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>Confederate.bmp</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Wilcox</name>
+		<description><![CDATA[<br> <img border="0" src="20lb Parrott Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.318635</td></tr><tr><td>LONG</td><td>-77.49096</td></tr><tr><td>NAME</td><td>Wilcox</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>20lb Parrott Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.49096,38.318635,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Featherston 2</name>
+		<description><![CDATA[<br> <img border="0" src="20lb Parrott Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.302861</td></tr><tr><td>LONG</td><td>-77.476092</td></tr><tr><td>NAME</td><td>Featherston 2</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>20lb Parrott Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.47609199999999,38.302861,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Featherston 3</name>
+		<description><![CDATA[<br> <img border="0" src="20lb Parrott Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.301142</td></tr><tr><td>LONG</td><td>-77.474878</td></tr><tr><td>NAME</td><td>Featherston 3</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>20lb Parrott Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.474878,38.301142,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Featherston</name>
+		<description><![CDATA[<br> <img border="0" src="20lb Parrott Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.299576</td></tr><tr><td>LONG</td><td>-77.473712</td></tr><tr><td>NAME</td><td>Featherston</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>20lb Parrott Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.47371200000001,38.299576,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>McLaws 2</name>
+		<description><![CDATA[<br> <img border="0" src="12lb  Napoleon.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.297934</td></tr><tr><td>LONG</td><td>-77.47274</td></tr><tr><td>NAME</td><td>McLaws 2</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>12lb  Napoleon.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.47274,38.297934,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>McLaws 3</name>
+		<description><![CDATA[<br> <img border="0" src="20lb Parrott Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.296215</td></tr><tr><td>LONG</td><td>-77.472108</td></tr><tr><td>NAME</td><td>McLaws 3</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>20lb Parrott Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.47210800000001,38.296215,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>McLaws 4</name>
+		<description><![CDATA[<br> <img border="0" src="20lb Parrott Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.294572</td></tr><tr><td>LONG</td><td>-77.47172</td></tr><tr><td>NAME</td><td>McLaws 4</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>20lb Parrott Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.47172,38.294572,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>McLaws</name>
+		<description><![CDATA[<br> <img border="0" src="12lb  Napoleon.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.29293</td></tr><tr><td>LONG</td><td>-77.471379</td></tr><tr><td>NAME</td><td>McLaws</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>12lb  Napoleon.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.471379,38.29293,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lee</name>
+		<description><![CDATA[<br> <img border="0" src="12lb  Napoleon.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.278302</td></tr><tr><td>LONG</td><td>-77.473857</td></tr><tr><td>NAME</td><td>Lee</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>12lb  Napoleon.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.47385700000001,38.278302,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Law 2</name>
+		<description><![CDATA[<br> <img border="0" src="20lb Parrott Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.264017</td></tr><tr><td>LONG</td><td>-77.455637</td></tr><tr><td>NAME</td><td>Law 2</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>20lb Parrott Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.455637,38.264017,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Law</name>
+		<description><![CDATA[<br> <img border="0" src="20lb Parrott Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.261916</td></tr><tr><td>LONG</td><td>-77.454033</td></tr><tr><td>NAME</td><td>Law</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>20lb Parrott Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.454033,38.261916,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hill</name>
+		<description><![CDATA[<br> <img border="0" src="12lb  Napoleon.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.257142</td></tr><tr><td>LONG</td><td>-77.451264</td></tr><tr><td>NAME</td><td>Hill</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>12lb  Napoleon.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.45126399999999,38.257142,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Brockenbrough</name>
+		<description><![CDATA[<br> <img border="0" src="12lb  Napoleon.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.248778</td></tr><tr><td>LONG</td><td>-77.438534</td></tr><tr><td>NAME</td><td>Brockenbrough</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>12lb  Napoleon.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.438534,38.248778,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stuart 2</name>
+		<description><![CDATA[<br> <img border="0" src="3in Ordnance Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.245684</td></tr><tr><td>LONG</td><td>-77.429254</td></tr><tr><td>NAME</td><td> Stuart 2</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>3in Ordnance Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.429254,38.245684,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Stuart</name>
+		<description><![CDATA[<br> <img border="0" src="3in Ordnance Rifle.jpg"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.248167</td></tr><tr><td>LONG</td><td>-77.424929</td></tr><tr><td>NAME</td><td>Stuart</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>3in Ordnance Rifle.jpg</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.42492900000002,38.248167,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wilcox 2</name>
+		<description><![CDATA[<br> <img border="0" src="Confederate.bmp"><br>Image<br><br /><table border="3">
+<tr><td>Field</td><td>Value</td></tr><tr><td>LAT</td><td>38.318635</td></tr><tr><td>LONG</td><td>-77.49096</td></tr><tr><td>NAME</td><td>Wilcox 2</td></tr><tr><td>ICON</td><td>Confederate.bmp</td></tr><tr><td>IMAGE</td><td>Confederate.bmp</td></tr></table>]]></description>
+		<styleUrl>#I1-0</styleUrl>
+		<Point>
+			<coordinates>-77.49096,38.318635,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

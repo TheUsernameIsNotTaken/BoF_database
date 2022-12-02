@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Placemark>
+	<name>Introduction</name>
+	<description><![CDATA[<body lang=EN-US link=blue vlink=purple>
+
+<div class=Section1>
+
+<p>Dan Sauer</p>
+
+<p>08DEC08</p>
+
+<p></p>
+
+<p><b><span
+style='font-size:16.0pt'>Artillery Analysis at the Battle of Fredericksburg</span></b></p>
+
+<p></p>
+
+<p><b>Introduction</b></p>
+
+<p>The Battle of Fredericksburg was fought between General
+Robert E. Lee&acute;s Confederate Army of Northern Virginia and the Major General
+Ambrose E. Burnside&acute;s Union Army of the Potomac. It is remembered as one of the
+most one-sided battles of the American Civil War in which the Union Army
+suffered terrible casualties in frontal assaults on entrenched Confederate
+defenders. It is also remembered as one of the most significant artillery
+engagements of the war, which is the driving force behind the analysis.</p>
+
+<p></p>
+
+<p><img width=458
+height=285 src="image001.jpg" ></p>
+
+<p></p>
+
+<p><b>Target Audience</b></p>
+
+<p>The audience for this project could really be anyone from
+someone just curious about the battle to a student doing a research project on
+the effectiveness of artillery in battle. The visuals in the project give
+someone that is just taking a glance a good impression of how effective
+artillery was used. On the other hand, if someone is doing research on the
+battle, they can click on the individual batteries to get a picture and more
+detail.</p>
+
+<p></p>
+
+<p><b></b></p>
+
+<p><b></b></p>
+
+<p><b></b></p>
+
+<p><b></b></p>
+
+<p><b></b></p>
+
+<p><b></b></p>
+
+<p><b></b></p>
+
+<p><b></b></p>
+
+<p><b></b></p>
+
+<p><b></b></p>
+
+<p><b>Process</b></p>
+
+<p>Using Microdem and other GIS resources I was able to take a
+historic map of the battlefield and register it&acute;s location on Google Earth. The
+map was originally a jpg2000 file, which was converted to a PNG file which had
+to be registered. On the same map I put an overlay of major roads, streams and
+railroads using TIGER files from counties Stafford, Spotsylvania and Fredericksburg.</p>
+
+<p></p>
+
+<p><img width=212 height=354
+src="image002.jpg" >                                   <img
+width=213 height=352 src="image003.jpg" ></p>
+
+<p></p>
+
+<p>Using a DEM of the area, I was able to make weapon fans the
+artillery and make a visual representation of what each battery had the
+capability of targeting. This was done for both the Confederate and the Union
+artillery batteries. After the weapon fans were completed and adjusted, I made
+a database of it, which was placed onto the historic map </p>
+
+<p></p>
+
+<p> <img width=206 height=235
+src="image004.jpg" >                                      
+<img width=206 height=235 src="image005.jpg" ></p>
+
+<p></p>
+
+<p>This final composite of maps, databases and other information
+gives a good visual representation of what each army was able to target using
+their artillery batteries and why this battle is considered to be a major
+artillery engagement.</p>
+
+<p></p>
+
+<p><img width=248
+height=414 src="image006.jpg" ></p>
+
+<p><b></b></p>
+
+<p><b>Summary</b></p>
+
+<p>The entire project was very difficult to start; I had a very
+difficult time finding the required information on the batteries and type of
+artillery used at each battery. It was obvious that the Battle of
+Fredericksburg has a lack of historical information on it compared to more
+famous battles such as Antietam and Gettysburg. I also had a very difficult
+time registering my historic map. There was no coordinate system on my historic
+map which resulted in me having to try and register notable landmarks and
+intersections. The accuracy of the registered map compared to the real world is
+average at best, but for purposes of the artillery analysis it is still usable.
+I learned a great deal from this project, not only on the Battle of
+Fredericksburg, but the many capabilities of Microdem and the power that GIS
+contains.</p>
+
+<p></p>
+
+<p><b>Metadata</b></p>
+
+<p>NED: The National Elevation Dataset from seamless.usgs.gov.</p>
+
+<p></p>
+
+<p>TIGER: Data for Fredericksburg, Stafford and Spotsylvania counties gathered from http://www2.census.gov/geo/tiger/tiger2007.</p>
+
+<p></p>
+
+<p>Historic Map: The Library of Congress at http://memory.loc.gov/ammem/index.htm</p>
+
+</div>]]></description>
+	<Point>
+		<coordinates>-77.432,38.323,0</coordinates>
+	</Point>
+</Placemark>
+</kml>
